@@ -1,0 +1,10 @@
+# github.com/ajstarks/svgo v0.0.0-20200320125537-f189e35d30ca
+github.com/ajstarks/svgo
+# github.com/google/uuid v1.1.1
+## explicit
+github.com/google/uuid
+# github.com/notnil/chess v1.2.0
+## explicit
+github.com/notnil/chess
+github.com/notnil/chess/image
+github.com/notnil/chess/image/internal
